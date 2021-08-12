@@ -10,3 +10,6 @@ def download_yandex(sharing_link, file_path):
 
 data_path = os.path.join(Path(__file__).parent.parent, 'data/bronze/interactions.parquet.gz')
 download_yandex('https://disk.yandex.ru/d/QsJkkMN5KDQobA', data_path)
+
+if os.path.exists(data_path):
+    print('Dataset downloaded: {}'.format(data_path))

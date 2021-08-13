@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 data/bronze/interactions.parquet.gz
 *.p
+artifacts/models/model_cocluster.p artifacts/models/model_nmf.p artifacts/models/model_svd.p

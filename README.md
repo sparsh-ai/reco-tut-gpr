@@ -1,5 +1,5 @@
 # Group Playlist Recommender
-![Size](https://github-size-badge.herokuapp.com/:owner/:repo.svg)
+![Size](https://github-size-badge.herokuapp.com/sparsh-ai/reco-tut-gpr.svg)
 
 In many social situations, like parties and road trips, groups of people with different music tastes will listen to music together. It's hard to please everyone, and it's even harder if you don't know what each person likes. There are multiple ways to synthesize the preferences of a group. Should you average their preferences? Should you try to make sure that no one hates the choices at the cost of excluding someone's favorites? This tutorial explores these questions by first generating a music profile for each person, and then applying different strategies to combine their preferences into a single playlist.
 
